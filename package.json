@@ -1,0 +1,23 @@
+{
+  "name": "hacktj2016",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcyrus/hacktj2016.git"
+  },
+  "author": "TCYRUS <tcyrus@users.noreply.github.com> (http://tcyr.us/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcyrus/hacktj2016/issues"
+  },
+  "homepage": "https://github.com/tcyrus/hacktj2016#readme",
+  "dependencies": {
+    "facebook-chat-api": "^1.0.6",
+    "hangouts-bot": "^0.2.1"
+  }
+}
